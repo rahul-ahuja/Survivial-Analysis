@@ -6,3 +6,7 @@ i) the probability of the default of a loan
 ii) the potential return of the loan. 
 
 Reference http://blog.lendingrobot.com/research/predicting-the-number-of-payments-in-peer-lending/
+
+
+First run `python lattice_preprocessing.py`
+Then run `python lattice_model.py`
